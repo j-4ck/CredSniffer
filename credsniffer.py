@@ -1,8 +1,5 @@
-#CredSniffer is still in production.
-#Author:
-	#Instagram: @0xjack
-	#Email: jackp0tter@protonmail.ch
-#BUILD: 1.2
+# CredSniffer is still in production.
+# long live deletehumanity
 from scapy.all import *
 import socket
 import time
